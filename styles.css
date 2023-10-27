@@ -21,6 +21,7 @@ h2 {
 }
 
 body {
+    padding-top: 20px;
     font-family:Arial, Helvetica, sans-serif;
     margin: 0 40px; /* Adjust the value to your preference */
     line-height: 1.4; 
