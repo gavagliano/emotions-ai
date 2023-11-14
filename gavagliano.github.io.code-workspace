@@ -1,0 +1,17 @@
+{
+    "folders": [
+		{
+			"path": "../gavagliano.github.io"
+		},
+		{
+			"path": "../Project-2"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "gavagliano.github.io"
+	},
+        
+}
